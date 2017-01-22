@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">DevIntensiv</string>
+    <string name="ff_regular">sans-serif</string>
+    <string name="ff_medium">sans-serif</string>
+    <string name="app_name">Илья Андриенко</string>
+    <string name="user_profile.placeholder.image">Изменить фотографию профиля</string>
+    <string name="user_profile_dialog.gallery">Загрузить из камеры</string>
+    <string name="user_profile_dialog.camera">Сделать снимок</string>
+    <string name="user_profile_dialog.cancel">Отмена</string>
+    <string name="user_profile_dialog.title">Загрузить фотографию профиля</string>
+
+    <!--LoginLayout-->
+    <string name="login_enter_tv">ВОЙТИ</string>
+    <string name="login_email_hint">E-mail</string>
+    <string name="login_password_hint">Пароль</string>
+    <string name="login_forgot_password_button">Забыли пароль?</string>
+
+    <!--AuthActivity-->
+    <string name="auth.authorization_enter">Войти</string>
+    <string name="auth.email">Введите E-mail</string>
+    <string name="auth.password">Введите пароль</string>
+    <string name="auth.login">Войти</string>
+    <string name="auth.remember">Забыли пароль?</string>
+    <string name="drawer_menu_item_saved_movies">Saved movies</string>
+    <string name="drawer_menu_item_search_with_title">Search with title</string>
+    <string name="drawer_menu_search_item_with_director">Search with director</string>
 </resources>
